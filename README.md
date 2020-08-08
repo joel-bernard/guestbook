@@ -1,3 +1,5 @@
+# Additionnal install instruction
+
 ### Install de rabbitmq with brew and pecl
 - `$ brew search librabbitmq`
 - `$ brew install rabbitmq-c`
@@ -6,8 +8,7 @@
 - to check if correctly installed 👉`$ php -i|grep amqp`
 ### Install redis with pecl
 - `$ pecl install redis`
+### Install gpg with brew
+- `$ brew install gpg`
 ### Installation de phive
 - [install instruction](https://phar.io/)
-
-# Install gpg with brew
-- `$ gpg --keyserver pool.sks-keyservers.net --recv-keys 0x9D8A98B29B2D5D79`
