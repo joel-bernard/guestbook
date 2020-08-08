@@ -10,5 +10,7 @@
 - `$ pecl install redis`
 ### Install gpg with brew
 - `$ brew install gpg`
-### Installation de phive
+### Install de phive
 - [install instruction](https://phar.io/)
+### Install PHPLoc
+- `phive install phploc`
